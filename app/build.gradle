@@ -25,4 +25,5 @@ dependencies {
     compile 'eu.chainfire:libsuperuser:1.0.0.+'
     compile 'com.android.support:design:23.1.0'
     provided fileTree(dir: 'deps', include: ['*.jar'])
+    compile 'eu.chainfire:libsuperuser:1.0.0.+'
 }
